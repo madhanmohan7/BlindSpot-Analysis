@@ -8,3 +8,4 @@ numpy
 pandas
 matplotlib
 deep-sort-realtime
+plotly
